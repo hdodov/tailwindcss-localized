@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-localized",
+  "version": "1.0.0",
+  "description": "Tailwind CSS variant for styling based on site language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdodov/tailwindcss-localized.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "plugin",
+    "localization",
+    "l10n",
+    "postcss"
+  ],
+  "author": "Hristiyan Dodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdodov/tailwindcss-localized/issues"
+  },
+  "homepage": "https://github.com/hdodov/tailwindcss-localized#readme"
+}
